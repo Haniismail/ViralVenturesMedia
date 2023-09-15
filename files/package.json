@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next --openssl-legacy-provider build",
-    "start": "next build && next start"
+    "start": "next start"
   },
   "dependencies": {
     "bootstrap": "^4.5.3",
