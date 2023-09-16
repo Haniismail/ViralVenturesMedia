@@ -26,8 +26,5 @@
     "typeface-barlow": "^1.1.13",
     "typeface-prata": "^1.1.13",
     "yarn": "^1.22.19"
-  },
-  "devDependencies": {
-    "webpack": "^5.88.2"
   }
 }

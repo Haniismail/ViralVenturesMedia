@@ -1,0 +1,1 @@
+{"ast":null,"code":"\"use strict\";\n\nexports.__esModule = true;\nexports.setConfig = setConfig;\nexports[\"default\"] = void 0;\nvar runtimeConfig;\nvar _default = function _default() {\n  return runtimeConfig;\n};\nexports[\"default\"] = _default;\nfunction setConfig(configValue) {\n  runtimeConfig = configValue;\n}","map":null,"metadata":{},"sourceType":"script"}

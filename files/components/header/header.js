@@ -60,7 +60,7 @@ const Header = () => {
           </div>
           <div className="main-nav__right">
             <a href="#" className="thm-btn">
-              <span>Download App</span>
+              <span>Email Us !</span>
             </a>
           </div>
         </Container>
