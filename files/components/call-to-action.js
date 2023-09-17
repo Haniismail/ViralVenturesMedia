@@ -4,7 +4,7 @@ import { Row, Col, Container } from "react-bootstrap";
 import shape1 from "@images/shapes/cta-1-shape-1.png";
 import shape2 from "@images/shapes/cta-1-shape-2.png";
 import shape3 from "@images/shapes/cta-1-shape-3.png";
-import moc from "../../documentation/assets/img/automation.jpg";
+import moc from "../assets/images/automation.jpg";
 
 import { CALL_TO_ACTION_DATA } from "@data/index";
 

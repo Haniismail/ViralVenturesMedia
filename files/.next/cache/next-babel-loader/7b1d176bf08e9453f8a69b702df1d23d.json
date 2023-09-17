@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from \"react\";\nconst TestimonialsCard = ({\n  extraClassName,\n  image,\n  title,\n  shape,\n  designation,\n  text\n}) => {\n  return __jsx(React.Fragment, null);\n};\nexport default TestimonialsCard;","map":null,"metadata":{},"sourceType":"module"}

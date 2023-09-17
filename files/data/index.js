@@ -64,7 +64,7 @@ export const VIDEO_DATA = {
   videoID: "Kl5B6MBAntI",
 };
 
-import appFeature1 from "../../documentation/assets/img/appFeatures1.png";
+import appFeature1 from "../assets/images/appFeatures1.png";
 
 export const APP_FEATURE_DATA = {
   sectionTitle: {
@@ -212,11 +212,11 @@ export const TESTIMONIALS_DATA = {
   ],
 };
 
-import appshot1 from "../../documentation/assets/img/appshot1.png";
-import appshot2 from "../../documentation/assets/img/appshot2.png";
-import appshot3 from "../../documentation/assets/img/appshot3.png";
-import appshot4 from "../../documentation/assets/img/appshot4.png";
-import appshot5 from "../../documentation/assets/img/appshot5.png";
+import appshot1 from "../assets/images/appshot1.png";
+import appshot2 from "../assets/images/appshot2.png";
+import appshot3 from "../assets/images/appshot3.png";
+import appshot4 from "../assets/images/appshot4.png";
+import appshot5 from "../assets/images/appshot5.png";
 
 export const APP_SHOT_DATA = {
   sectionTitle: {
