@@ -33,9 +33,9 @@ const MobileNav = () => {
               <br /> <a href="tel:23878321">0021623878321</a>
             </p>
             <div className="side-menu__social">
-              <a href="#">
+              {/* <a href="#">
                 <i className="fab fa-facebook-square"></i>
-              </a>
+              </a> */}
               <a href="https://twitter.com/ViralVentures_" target="_blank">
                 <i className="fab fa-twitter"></i>
               </a>
@@ -45,9 +45,9 @@ const MobileNav = () => {
               >
                 <i className="fab fa-instagram"></i>
               </a>
-              <a href="#">
+              {/* <a href="#">
                 <i className="fab fa-pinterest-p"></i>
-              </a>
+              </a> */}
             </div>
           </div>
         </div>
