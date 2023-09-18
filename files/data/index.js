@@ -73,7 +73,7 @@ export const APP_FEATURE_DATA = {
   },
   // image: appFeature1,
   paragraph:
-    "We help you highlight your AI automation needs within your business ! ",
+    "We help you highlight your marketing, software and AI automation needs within your business ! ",
   options: [
     {
       label:
