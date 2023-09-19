@@ -59,7 +59,7 @@ const HeaderInner = () => {
             <NavLinksInner />
           </div>
           <div className="main-nav__right">
-            <a href="#" className="thm-btn">
+            <a href="mailto:contact.viralventuresmedia@gmail.com" className="thm-btn">
               <span>Email Us !</span>
             </a>
           </div>
