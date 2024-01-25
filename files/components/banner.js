@@ -1,11 +1,11 @@
-import React from "react";
-import { Row, Col, Container } from "react-bootstrap";
-import bgShape1 from "@images/banner/banner-shape-1-1.png";
-import bgShape2 from "@images/banner/banner-shape-1-2.png";
-import bannerBG from "@images/banner/banner-bg-1.png";
-import bannerShape1 from "@images/shapes/banner-1-1.png";
-import bannerShape2 from "@images/banner/banner-shape-1-4.png";
-import image from "@images/banner/banner-img-1.png";
+import React from 'react';
+import { Row, Col, Container } from 'react-bootstrap';
+import bgShape1 from '@images/banner/banner-shape-1-1.png';
+import bgShape2 from '@images/banner/banner-shape-1-2.png';
+import bannerBG from '@images/banner/banner-bg-1.png';
+import bannerShape1 from '@images/shapes/banner-1-1.png';
+import bannerShape2 from '@images/banner/banner-shape-1-4.png';
+import image from '@images/banner/banner-img-1.png';
 
 const Banner = () => {
   return (
@@ -21,15 +21,15 @@ const Banner = () => {
           <Col xl={6} lg={6}>
             <div className="banner-one__content">
               <h3>
-                at Viral Ventures Media
+                Standing out online
                 <br />
-                We help you achieve 
+                is a RIGHT
                 <br />
-                big success
+                not a PRIVILEGE
               </h3>
               <p>
-                We're your partners in success <br />
-                Let's get started on your journey to greatness. 
+                As a business owner you know that : <br />
+                Automation and getting big online is a MUST.
               </p>
               <a
                 href="mailto:contact.viralventuresmedia@gmail.com"

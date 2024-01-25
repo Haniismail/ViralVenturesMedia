@@ -1742,7 +1742,7 @@ li {
   position: absolute;
   top: 91px;
   left: -190px;
-  width: 310px;
+  /* width: 310px; */
   height: 300px;
   z-index: -1;
   -webkit-animation-name: shapeMover;
@@ -1755,6 +1755,9 @@ li {
   animation-iteration-count: infinite;
 }
 
+.kanye{
+  width: auto;
+}
 .cat_one_content {
   margin-left: 50px;
 }
